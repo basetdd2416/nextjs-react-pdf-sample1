@@ -1,2 +1,1 @@
-# nextjs-react-pdf-sample1
-Created with CodeSandbox
+# react-pdf + next js example
